@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\QuanLySach\\QuanLySach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9896E4DB-E725-4C1F-8989-73C574496043}|QuanLySach\\QuanLySach.csproj|c:\\users\\admin\\onedrive\\desktop\\quanlysach\\quanlysach\\quanlysach\\views\\home\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9896E4DB-E725-4C1F-8989-73C574496043}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\views\\home\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\QuanLySach\\QuanLySach\\QuanLySach\\Views\\Home\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "QuanLySach\\Views\\Home\\AllProduct.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\QuanLySach\\QuanLySach\\QuanLySach\\Views\\Home\\AllProduct.cshtml",
+              "RelativeToolTip": "QuanLySach\\Views\\Home\\AllProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T06:51:30.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
